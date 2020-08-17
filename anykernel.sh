@@ -4,14 +4,14 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Illusion by Akhil
+kernel.string=Build by TronFlyn
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=Mi 6
-device.name2=sagit
+device.name1=K30 Pro
+device.name2=lmi
 device.name3=
 device.name4=
 device.name5=
